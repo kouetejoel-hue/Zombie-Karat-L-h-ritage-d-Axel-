@@ -1,2 +1,3 @@
 # Zombie-Karat-L-h-ritage-d-Axel-
-Zombie Karaté : L'héritage d'Axel est un jeu de survie RPG.Dans le jeu vous incarné Axel dans la forê
+Zombie Karaté : L'héritage d'Axel est un jeu de survie RPG.Dans le jeu vous incarné Axel qui vit dans une cabane isolée dans la forêt avec un téléphone portable brisé mais utilisable avec un sac pour s'entraîner.Ton téléphone portable sonne et on vous dit de venir tuer les Zombies chez les boss pour de l'argent à la fin de la mission un clavier sortira et vous écriverez la somme d'argent que vous voulez.Vous devez avoir beaucoup d'argent pour aller en ville, arrivé en ville le choix de choisir Axel ou Marco sortira.Vous pouvez vous acheter des voitures,des maisons,des portables et même des vêtements parce que en forêt les habits sont faits par des feuilles.Le jeu prendra 2 Go de RAM pour les Gamers.
+Analogue, bouton A, bouton B, bouton C.
